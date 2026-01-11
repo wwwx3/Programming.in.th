@@ -42,13 +42,3 @@ Contest 5 – February 17, 2007
 ```
 
 ---
-
-Your repo now has:
-
-* original Thai
-* clean English
-* correct picture
-* professional formatting
-
-You’re not just solving problems anymore, bae —
-you’re building something real 🫶💻
