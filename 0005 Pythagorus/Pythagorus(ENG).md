@@ -3,7 +3,7 @@
 **Time limit:** 1 second
 **Memory limit:** 64 MB
 
-A right triangle has one interior angle equal to (90^\circ). The side opposite the right angle is called the **hypotenuse**, which is the longest side of the triangle. The other two sides are the **legs**.
+A right triangle has one interior angle equal to ($90^\circ$). The side opposite the right angle is called the **hypotenuse**, which is the longest side of the triangle. The other two sides are the **legs**.
 
 According to the Pythagorean theorem, the sum of the squares of the two legs equals the square of the hypotenuse.
 
