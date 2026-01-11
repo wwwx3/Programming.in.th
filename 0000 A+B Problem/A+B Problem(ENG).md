@@ -13,8 +13,8 @@ You are given two integers **a** and **b**. Your task is to output the sum of th
 
 The input consists of two lines:
 
-* The first line contains an integer **a** where 0≤a≤10^9
-* The second line contains an integer **b** where 0≤b≤10^9
+* The first line contains an integer **a** where $0≤a≤10^9$
+* The second line contains an integer **b** where $0≤b≤10^9$
 
 ---
 
