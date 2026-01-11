@@ -4,7 +4,7 @@
 **Time limit:** 1 second  
 **Memory limit:** 32 megabytes  
 
-Somchai visits a fair where a magician performs a trick involving three opaque cups and a ball. The cups are placed in a row, and initially the ball is under the leftmost cup. The magician repeatedly swaps two cups at a time very quickly, but the audience can still see which pair of cups is being swapped.
+Somchai visits a fair where a magician performs a trick involving three opaque cups and a ball. The cups are placed in a row, and initially, the ball is under the leftmost cup. The magician repeatedly swaps two cups at a time very quickly, but the audience can still see which pair of cups is being swapped.
 
 ![Trik cup movement](Trik.png)
 
@@ -39,6 +39,5 @@ Print a single integer:
 ### Source  
 Croatian Open Competition in Informatics  
 Contest 5 – February 17, 2007
-```
 
 ---
