@@ -11,9 +11,9 @@ Given two integers, your task is to find their GCD.
 
 ### Input  
 One line containing two positive integers `a` and `b`, where  
-\[
+$$\[
 0 < a, b \le 2{,}000{,}000{,}000
-\]
+\]$$
 
 ---
 
