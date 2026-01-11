@@ -14,7 +14,7 @@ You are given two matrices of size (m \times n). Your task is to compute their s
 * Lines (m + 2) to (2m + 1): Each line contains **n** integers representing the second matrix
 
 Each matrix element satisfies
-$-2{,}000{,}000{,}000 \le Ai,j \le 2{,}000{,}000{,}000$
+$-2{,}000{,}000{,}000 \le A_{i,j} \le 2{,}000{,}000{,}000$
 
 ---
 
