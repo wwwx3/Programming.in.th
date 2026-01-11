@@ -1,7 +1,7 @@
 # Programming.in.th
 A collection of algorithm and data structure problems solved on Programming.in.th, documenting my learning journey.
 
-Link: https://programming.in.th/
+**Link: https://programming.in.th/**
 
 This repository contains my personal solutions and notes from **Programming.in.th**, a Thai platform for practicing algorithms and data structures, especially in C,C++. I use this space to record how I learn, think, and improve through problem-solving.
 
