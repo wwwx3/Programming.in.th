@@ -3,7 +3,7 @@
 **Time limit:** 1 second
 **Memory limit:** 64 MB
 
-You are given two matrices of size (m \times n). Your task is to compute their sum.
+You are given two matrices of size ($m \times n$). Your task is to compute their sum.
 
 ---
 
