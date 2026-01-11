@@ -70,6 +70,3 @@ CBABCACCC
 ### แหล่งที่มา  
 Croatian Open Competition in Informatics  
 Contest 5 – February 17, 2007
-```
-
----
