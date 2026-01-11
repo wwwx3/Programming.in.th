@@ -1,6 +1,5 @@
 ## Trik
 
----
 1 second, 32 megabytes
 
 ![Trik cup movement](Trik.png)
