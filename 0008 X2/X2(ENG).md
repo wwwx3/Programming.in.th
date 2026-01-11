@@ -7,7 +7,7 @@ Let (S) be the average of two integers $(X_1)$ and $(X_2)$, defined as
 $$[
 S = \frac{X_1 + X_2}{2}
 ]$$
-Somchai gave Preeda two gifts with values $(X_1)$ and $(X_2)$. Preeda calculated the average value (S), which is also an integer, but then lost the value of the second gift (X_2).
+Somchai gave Preeda two gifts with values $(X_1)$ and $(X_2)$. Preeda calculated the average value (S), which is also an integer, but then lost the value of the second gift $(X_2)$.
 
 Write a program to determine $(X_2)$.
 
