@@ -9,10 +9,10 @@ Given a set of integers, find the minimum value and the maximum value, then prin
 
 ### Input
 
-* Line 1: A positive integer **n** ((1 \le n \le 1000)), the number of values
-* Lines 2 to (n + 1): Each line contains an integer **A_i**, where
+* Line 1: A positive integer **n** $(1 \le n \le 1000)$, the number of values
+* Lines 2 to (n + 1): Each line contains an integer $**A_i**$, where
   [
-  -2{,}000{,}000{,}000 \le A_i \le 2{,}000{,}000{,}000
+  $-2{,}000{,}000{,}000 \le A_i \le 2{,}000{,}000{,}000$
   ]
 
 ---
