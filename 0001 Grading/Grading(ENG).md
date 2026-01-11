@@ -19,9 +19,9 @@ After the semester ends, the registration office needs to calculate each student
 
 The input consists of three lines:
 
-* Line 1: An integer **a** (0 ≤ a ≤ 30), the assignment score
-* Line 2: An integer **b** (0 ≤ b ≤ 30), the midterm exam score
-* Line 3: An integer **c** (0 ≤ c ≤ 40), the final exam score
+* Line 1: An integer **a** $(0 ≤ a ≤ 30)$, the assignment score
+* Line 2: An integer **b** $(0 ≤ b ≤ 30)$, the midterm exam score
+* Line 3: An integer **c** $(0 ≤ c ≤ 40)$, the final exam score
 
 ---
 
