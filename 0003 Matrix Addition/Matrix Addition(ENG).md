@@ -9,14 +9,12 @@ You are given two matrices of size (m \times n). Your task is to compute their s
 
 ### Input
 
-* Line 1: Two positive integers **m** and **n** ((1 \le m, n \le 100)), the dimensions of the matrices
+* Line 1: Two positive integers **m** and **n** ($1 \le m, n \le 100$), the dimensions of the matrices
 * Lines 2 to (m + 1): Each line contains **n** integers representing the first matrix
 * Lines (m + 2) to (2m + 1): Each line contains **n** integers representing the second matrix
 
 Each matrix element satisfies
-[
--2{,}000{,}000{,}000 \le A_{i,j} \le 2{,}000{,}000{,}000
-]
+$-2{,}000{,}000{,}000 \le Ai,j \le 2{,}000{,}000{,}000$
 
 ---
 
