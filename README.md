@@ -3,11 +3,13 @@ A collection of algorithm and data structure problems solved on Programming.in.t
 
 **Link: https://programming.in.th/**
 
-This repository contains my personal solutions and notes from **Programming.in.th**, a Thai platform for practicing algorithms and data structures, especially in C,C++. I use this space to record how I learn, think, and improve through problem-solving.
+This repository contains my personal solutions and notes from **Programming.in.th**, a **Thai platform** for practicing algorithms and data structures, especially in C,C++. I use this space to record how I learn, think, and improve through problem-solving.
 
 The problems here range from beginner to more challenging levels. Some solutions are simple, others took many attempts of trial and error. 
 
 The problems from "Programming.in.th" were translated to English for international understanding. I ordered the solutions according to the orders of the tasks. (Starting from 0000 , 0001 , 0002,...)
+
+---
 
 **Why Programming.in.th** 
 
